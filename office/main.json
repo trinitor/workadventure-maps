@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/digitalguardian.com\/blog\/what-cyber-hygiene-definition-cyber-hygiene-benefits-best-practices-and-more"
+                 "value":"https:\/\/www.techtarget.com\/searchsecurity\/definition\/cyber-hygiene"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/oHg5SJYRHA0"
+                 "value":"https:\/\/www.youtube.com\/embed\/xvFZjo5PgG0"
                 }],
          "type":"tilelayer",
          "visible":true,
